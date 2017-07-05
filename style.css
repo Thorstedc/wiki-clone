@@ -1,0 +1,42 @@
+body {
+  background-color: #fff;
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #0645AD;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+.head {
+  font-size: 19.5px;
+  padding: 9.75px 0 19.5px 0;
+  text-decoration: none;
+  text-align: justify;
+  line-height: 1.5;
+}
+.welcome {
+  font-size: 20px;
+  margin-left: 500px;
+  text-align: right;
+  font-weight: bold;
+}
+
+.row {
+display: flex;
+justify-content: space-between;
+margin: 0 auto;
+
+}
+footer p {
+  text-align: center;
+  font-size: 14px;
+}
+footer a {
+  margin: 0 8px;
+}
+footer {
+  text-align: center;
+}
